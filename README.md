@@ -7,9 +7,9 @@ The Run-down:
 
 All tests are located in /test/Interface/Api/Movie
 
-To discover tests, just build the solution
+To discover tests, just build the solution (in VS 2017: Build-> Build Solution)
 
-To run the tests open the Test Explorer window (in VS 2017: Test->Windows->Test Explorer), then cick Run All
+To run the tests open the Test Explorer window (in VS 2017: Test-> Windows-> Test Explorer), then cick Run All
 
 For full written tests to actually pass, you must enter your Api Key, username and password and social security number(not really, im kidding) at the top of the class.
 
