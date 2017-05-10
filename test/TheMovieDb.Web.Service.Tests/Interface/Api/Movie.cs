@@ -9,10 +9,10 @@ namespace TheMovieDb.Web.Service.Tests.Interface.Api
     public class Movie
     {
         public HttpClient client = new HttpClient();
-        private string validApiKey = "60c2bdd54b7f8da973408e1660fa467e";
+        private string validApiKey = "";
         private string invalidApiKey = "";
-        private string username = "wmallett";
-        private string password = "sofitest";
+        private string username = "";
+        private string password = "";
         private string token;
         private string sessionId;
 
